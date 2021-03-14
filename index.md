@@ -1,5 +1,6 @@
 ---
 author: Sam
+layout: demo
 ---
 
 # Home Page
