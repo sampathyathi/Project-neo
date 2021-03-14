@@ -6,4 +6,4 @@ author: Sam
 
 My name is {{ page.author }}.
 
-The {{ site.what }} is {{ site.when }}.
+The {{ site.What }} is {{ site.When }}.
