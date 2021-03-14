@@ -8,3 +8,7 @@ layout: demo
 My name is {{ page.author }}.
 
 The {{ site.What }} is {{ site.When }}.
+
+{% for item in file2 %}
+  {{ item.name }}, {{ item.place }}
+{% endfor %}
